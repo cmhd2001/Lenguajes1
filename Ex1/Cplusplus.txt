@@ -1,14 +1,3 @@
 C++ es un lenguaje de programación de alto nivel y orientado a objetos, desarrollado por Bjarne Stroustrup.
 
-1. Diga qué tipo de alcances y asociaciones posee, argumentando las ventajas y
-desventajas de la decisión tomada por los diseñadores del lenguaje, en el contexto
-de sus usuarios objetivos.
-
-2. Diga qué tipo de módulos ofrece (de tenerlos) y las diferentes formas de importar
-y exportar nombres.
-
-3. Diga si el lenguaje ofrece la posibilidad de crear aliases, sobrecarga y polimorfismo.
-En caso afirmativo, dé algunos ejemplos.
-
-4. Diga qué herramientas ofrece a potenciales desarrolladores, como: compiladores,
-intérpretes, debuggers, profilers, frameworks, etc
+1. El lenguaje posee alcance estatico y asociacion profunda.
