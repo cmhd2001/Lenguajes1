@@ -30,7 +30,7 @@ def fTail(a,b, n, acc=0, i=-1):
         else:
             return fTail(a,b,n, acc + fTail(a,b,n - (b*i)), i-1)
     
-print ("De cola: " + str(fTail(2,1,10)))
+print ("De cola: " + str(fTail(a,b,30)))
 
 # Convertimos ahora la recursión de cola en su forma iterativa
 
@@ -58,4 +58,4 @@ def fIter(a,b,n):
 
         return acc
 
-print ("Iterativo: " + str(fIter(2,1,10)))
+print ("Iterativo: " + str(fIter(a,b,30)))
